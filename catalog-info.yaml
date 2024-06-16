@@ -5,7 +5,7 @@ metadata:
   description: "api for testing"
 spec:
   type: openapi
-  owner: user:SreeHarshithaGaddam
+  owner: user:newuser
   lifecycle: experimental
   definition:
      $text: ./testing.oas.yaml
