@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: "API_testing"
+  description: "api for testing"
+spec:
+  type: openapi
+  owner: user:SreeHarshithaGaddam
+  lifecycle: experimental
+  definition:
+     $text: ./testing.oas.yaml
